@@ -102,7 +102,7 @@ $enable-shadows:            true !default;
 $enable-gradients:          false !default; // Not supported by Shards.
 $enable-transitions:        true !default;
 $enable-hover-media-query:  false !default; // Deprecated, no longer affects any compiled CSS
-$enable-fonts-import:       true !default;
+$enable-fonts-import:       false !default;
 
 
 // Forms

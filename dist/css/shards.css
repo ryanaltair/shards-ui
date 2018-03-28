@@ -4,7 +4,6 @@
  * Copyright 2017-* DesignRevision (https://designrevision.com)
  * Copyright 2017-* Catalin Vasile (http://catalin.me)
  */
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600|Roboto+Mono");
 :root {
   --blue: #007bff;
   --indigo: #674eec;
@@ -445,10 +444,6 @@ pre {
 }
 
 .form-control:-ms-input-placeholder {
-  color: #868e96;
-}
-
-.form-control::-ms-input-placeholder {
   color: #868e96;
 }
 
